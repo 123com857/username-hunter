@@ -2,8 +2,6 @@
 
 ![主界面](1.png)  
 <br><br>
-![扫描结果](2.png)
-
 </div>
 
 # Username Hunter 2025
